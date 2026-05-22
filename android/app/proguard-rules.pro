@@ -1,0 +1,4 @@
+-keep class fi.iki.elonen.** { *; }
+-keep class com.ryanheise.just_audio.** { *; }
+-keep class com.google.android.gms.nearby.** { *; }
+-keep class com.crowdsync.app.ClockSync { *; }
